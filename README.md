@@ -29,8 +29,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 🛠️ Skills
 
 Languages
+
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![typescript](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 typescript javascript python 
 
 Front-End Development
