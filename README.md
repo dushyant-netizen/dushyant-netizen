@@ -27,8 +27,11 @@ I'm a software engineer who is passionate about making contributing to open-sour
 🤝 Hacktober Fest Participant for adding quality pull requests at Hacktober Fest 2020 (October 2022)
 
 🛠️ Skills
+
 Languages
-typescript javascript python dart
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+typescript javascript python 
 
 Front-End Development
 next react-redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
@@ -40,7 +43,7 @@ Cross Platform Development
 flutter electron
 
 Backend as a Service (BaaS)
-firebase vercel heroku netlify
+firebase vercel heroku 
 
 Design Tools
 adobe-xd figma canva
