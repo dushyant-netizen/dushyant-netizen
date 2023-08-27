@@ -37,25 +37,25 @@ Languages
 
 typescript javascript python 
 
-Front-End Development
+Front-End Development :
 next react-redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
 
-Block-Chain Development
+Block-Chain Development :
 ethereum web3 solidity
 
-Cross Platform Development
+Cross Platform Development :
 flutter electron
 
-Backend as a Service (BaaS)
+Backend as a Service (BaaS) :
 firebase vercel heroku 
 
-Design Tools
+Design Tools :
 adobe-xd figma canva
 
-Testing
+Testing :
 mocha jest pytest
 
-🖥️ Workspace Setup
+🖥️ Workspace Setup :
 i5-8th-gen gtx-1060 windows vs-code
 
 -->
