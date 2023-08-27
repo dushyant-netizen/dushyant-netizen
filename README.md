@@ -30,8 +30,10 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 Languages
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#3178C6)]
+![github]("C:\Users\dushy\Downloads\typescript.svg")]
+
 ![typescript](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 typescript javascript python 
 
 Front-End Development
