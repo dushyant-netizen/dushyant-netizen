@@ -3,6 +3,7 @@
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, and Jamstack (JavaScript, APIs + Markup). I'm a self-taught passionate FrontEnd developer from India.
 
 🚀 About Me
+
 🎓 I am Dushyant Verma, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I'm a self-taught passionate FrontEnd developer from India.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several Gigantic Organizations including, Material UI, Microsoft, Amazon, Webhint, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture, and Blockchain development & DApps. I got started with Freelancing and Blogging quite recently and made a name for myself.
