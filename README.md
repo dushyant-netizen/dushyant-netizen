@@ -30,7 +30,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 Languages
 
-![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=blue)]
+![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=blue)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 typescript javascript python 
 
