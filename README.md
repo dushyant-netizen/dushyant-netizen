@@ -32,7 +32,7 @@ Languages
 
 ![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=blue) 
 ![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![Python](https://img.shields.io/badge/Puthon-darkblue?style=for-the-badge&logo=Puthon&logoColor=darkblue)
+![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=Python&logoColor=darkblue)
 
 
 typescript javascript python 
