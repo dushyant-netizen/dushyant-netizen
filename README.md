@@ -35,17 +35,17 @@ Languages
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=Python&logoColor=darkblue)
 ![java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=blue) 
 
-
-typescript javascript python 
-
 Front-End Development :
 next react-redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
+
+Backend development  :
+focus on the server-side of web applications, handling tasks like data management, server logic, and API development
 
 Block-Chain Development :
 ethereum web3 solidity
 
 Cross Platform Development :
-flutter electron
+flutter react-native
 
 Backend as a Service (BaaS) :
 firebase vercel heroku 
@@ -55,6 +55,12 @@ adobe-xd figma canva
 
 Testing :
 mocha jest pytest
+
+Data Acquisition and Preparation:
+Gathering relevant data, cleaning it, and transforming it into a suitable format for training ML models. 
+
+AI/ML Development Platforms:
+Tools and environments that provide the necessary infrastructure and resources for building AI/ML systems, often abstracting away complex technical details. 
 
 🖥️ Workspace Setup :
 i5-8th-gen gtx-1060 windows vs-code
