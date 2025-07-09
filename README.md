@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, and Jamstack (JavaScript, APIs + Markup). I'm a self-taught passionate FrontEnd developer from India.
+I'm a conmputer science / IT engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, and Jamstack (JavaScript, APIs + Markup). I'm a self-taught passionate FrontEnd developer from India.
 
 #🚀 About Me
 
