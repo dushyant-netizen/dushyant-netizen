@@ -59,8 +59,6 @@ mocha jest pytest
 Data Acquisition and Preparation:
 Gathering relevant data, cleaning it, and transforming it into a suitable format for training ML models. 
 
-<iframe src="https://github.com/sponsors/dushyant-netizen/card" title="Sponsor dushyant-netizen" height="225" width="600" style="border: 0;"></iframe>
-
 AI/ML Development Platforms:
 Tools and environments that provide the necessary infrastructure and resources for building AI/ML systems, often abstracting away complex technical details. 
 
@@ -68,3 +66,5 @@ Tools and environments that provide the necessary infrastructure and resources f
 i5-8th-gen gtx-1060 windows vs-code
 
 -->
+<iframe src="https://github.com/sponsors/dushyant-netizen/card" title="Sponsor dushyant-netizen" height="225" width="600" style="border: 0;"></iframe>
+
