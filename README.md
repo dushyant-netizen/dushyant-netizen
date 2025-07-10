@@ -66,5 +66,4 @@ Tools and environments that provide the necessary infrastructure and resources f
 i5-8th-gen gtx-1060 windows vs-code
 
 -->
-<iframe src="https://github.com/sponsors/dushyant-netizen/card" title="Sponsor dushyant-netizen" height="225" width="600" style="border: 0;"></iframe>
 
